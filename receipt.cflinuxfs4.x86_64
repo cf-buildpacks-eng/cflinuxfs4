@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9e246f414aa6f1d746ea1dd600994321df43d3b98f401ab412506d14caab521d
+Rootfs SHASUM: 2399386e0b00b72dd31a6d60864b3de75b019ee4399025043c60face9f5a9370
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -16,9 +16,9 @@ ii  autotools-dev                      20220109.1                              a
 ii  base-files                         12ubuntu4.1                             amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.52build1                            amd64        Debian base system master password and group files
 ii  bash                               5.1-6ubuntu1                            amd64        GNU Bourne Again SHell
-ii  bind9-dnsutils                     1:9.18.1-1ubuntu1                       amd64        Clients provided with BIND 9
-ii  bind9-host                         1:9.18.1-1ubuntu1                       amd64        DNS Lookup Utility
-ii  bind9-libs:amd64                   1:9.18.1-1ubuntu1                       amd64        Shared Libraries used by BIND 9
+ii  bind9-dnsutils                     1:9.18.1-1ubuntu1.1                     amd64        Clients provided with BIND 9
+ii  bind9-host                         1:9.18.1-1ubuntu1.1                     amd64        DNS Lookup Utility
+ii  bind9-libs:amd64                   1:9.18.1-1ubuntu1.1                     amd64        Shared Libraries used by BIND 9
 ii  binutils                           2.38-3ubuntu1                           amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64              2.38-3ubuntu1                           amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu          2.38-3ubuntu1                           amd64        GNU binary utilities, for x86-64-linux-gnu target
@@ -48,7 +48,7 @@ ii  dh-python                          5.20220403                              a
 ii  diffutils                          1:3.8-0ubuntu2                          amd64        File comparison utilities
 ii  distro-info                        1.1build1                               amd64        provides information about the distributions' releases
 ii  distro-info-data                   0.52ubuntu0.1                           all          information about the distributions' releases (data files)
-ii  dnsutils                           1:9.18.1-1ubuntu1                       all          Transitional package for bind9-dnsutils
+ii  dnsutils                           1:9.18.1-1ubuntu1.1                     all          Transitional package for bind9-dnsutils
 ii  dpkg                               1.21.1ubuntu2                           amd64        Debian package management system
 ii  dpkg-dev                           1.21.1ubuntu2                           all          Debian package development tools
 ii  e2fsprogs                          1.46.5-2ubuntu1                         amd64        ext2/ext3/ext4 file system utilities
@@ -274,7 +274,7 @@ ii  libjpeg-turbo8-dev:amd64           2.1.2-0ubuntu1                          a
 ii  libjpeg8:amd64                     8c-2ubuntu10                            amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjpeg8-dev:amd64                 8c-2ubuntu10                            amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjq1:amd64                       1.6-2.1ubuntu3                          amd64        lightweight and flexible command-line JSON processor - shared library
-ii  libjson-c5:amd64                   0.15-2build4                            amd64        JSON manipulation library - shared library
+ii  libjson-c5:amd64                   0.15-3~ubuntu1.22.04.1                  amd64        JSON manipulation library - shared library
 ii  libjson-glib-1.0-0:amd64           1.6.6-1build1                           amd64        GLib JSON manipulation library
 ii  libjson-glib-1.0-common            1.6.6-1build1                           all          GLib JSON manipulation library (common files)
 ii  libjsoncpp25:amd64                 1.9.5-3                                 amd64        library for reading and writing JSON for C++
@@ -396,8 +396,8 @@ ii  libpixman-1-dev:amd64              0.40.0-1build4                          a
 ii  libpng-dev:amd64                   1.6.37-3build5                          amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                  1.6.37-3build5                          amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                     1.18-3build1                            amd64        lib for parsing cmdline parameters
-ii  libpq-dev                          14.2-1ubuntu1                           amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                       14.2-1ubuntu1                           amd64        PostgreSQL C client library
+ii  libpq-dev                          14.3-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                       14.3-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
 ii  libprocps8:amd64                   2:3.3.17-6ubuntu2                       amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                  0.4.17-2                                amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                      0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-30.31                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-33.34                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3                           all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
