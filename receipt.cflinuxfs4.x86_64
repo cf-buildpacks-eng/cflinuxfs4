@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4d601bedbe6df442f2dfb96be3d28875879bb31575d97a6ced8c094f4ae32f7d
+Rootfs SHASUM: 2399386e0b00b72dd31a6d60864b3de75b019ee4399025043c60face9f5a9370
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -49,8 +49,8 @@ ii  diffutils                          1:3.8-0ubuntu2                          a
 ii  distro-info                        1.1build1                               amd64        provides information about the distributions' releases
 ii  distro-info-data                   0.52ubuntu0.1                           all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.18.1-1ubuntu1.1                     all          Transitional package for bind9-dnsutils
-ii  dpkg                               1.21.1ubuntu2.1                         amd64        Debian package management system
-ii  dpkg-dev                           1.21.1ubuntu2.1                         all          Debian package development tools
+ii  dpkg                               1.21.1ubuntu2                           amd64        Debian package management system
+ii  dpkg-dev                           1.21.1ubuntu2                           all          Debian package development tools
 ii  e2fsprogs                          1.46.5-2ubuntu1                         amd64        ext2/ext3/ext4 file system utilities
 ii  eject                              2.37.2-4ubuntu3                         amd64        ejects CDs and operates CD-Changers under Linux
 ii  emacsen-common                     3.0.4                                   all          Common facilities for all emacsen
@@ -180,7 +180,7 @@ ii  libdjvulibre-dev:amd64             3.5.28-2build2                          a
 ii  libdjvulibre-text                  3.5.28-2build2                          all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64               3.5.28-2build2                          amd64        Runtime support for the DjVu image format
 ii  libdns-export1110                  1:9.11.19+dfsg-2.1ubuntu3               amd64        Exported DNS Shared Library
-ii  libdpkg-perl                       1.21.1ubuntu2.1                         all          Dpkg perl modules
+ii  libdpkg-perl                       1.21.1ubuntu2                           all          Dpkg perl modules
 ii  libdrm-common                      2.4.110-1ubuntu1                        all          Userspace interface to kernel DRM services -- common files
 ii  libdrm2:amd64                      2.4.110-1ubuntu1                        amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                       0.186-1build1                           amd64        library that provides access to the DWARF debug information
@@ -216,8 +216,8 @@ ii  libgcrypt20:amd64                  1.9.4-3ubuntu3                          a
 ii  libgcrypt20-dev                    1.9.4-3ubuntu3                          amd64        LGPL Crypto library - development files
 ii  libgd-dev:amd64                    2.3.0-2ubuntu2                          amd64        GD Graphics Library (development version)
 ii  libgd3:amd64                       2.3.0-2ubuntu2                          amd64        GD Graphics Library
-ii  libgdbm-compat4:amd64              1.23-1                                  amd64        GNU dbm database routines (legacy support runtime version) 
-ii  libgdbm6:amd64                     1.23-1                                  amd64        GNU dbm database routines (runtime version) 
+ii  libgdbm-compat4:amd64              1.23-1                                  amd64        GNU dbm database routines (legacy support runtime version)
+ii  libgdbm6:amd64                     1.23-1                                  amd64        GNU dbm database routines (runtime version)
 ii  libgdk-pixbuf-2.0-0:amd64          2.42.8+dfsg-1                           amd64        GDK Pixbuf library
 ii  libgdk-pixbuf-2.0-dev:amd64        2.42.8+dfsg-1                           amd64        GDK Pixbuf library (development files)
 ii  libgdk-pixbuf2.0-bin               2.42.8+dfsg-1                           amd64        GDK Pixbuf library (thumbnailer)
@@ -453,7 +453,7 @@ ii  libssl-dev:amd64                   3.0.2-0ubuntu1.2                        a
 ii  libssl3:amd64                      3.0.2-0ubuntu1.2                        amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-11-dev:amd64             11.2.0-19ubuntu1                        amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                   12-20220319-1ubuntu1                    amd64        GNU Standard C++ Library v3
-ii  libsvn1:amd64                      1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
+ii  libsvn1:amd64                      1.14.1-3build4                          amd64        Shared libraries used by Apache Subversion
 ii  libswresample3:amd64               7:4.4.1-3ubuntu5                        amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.1-1build1                           amd64        interface library to sysfs - shared library
 ii  libsystemd0:amd64                  249.11-0ubuntu3.1                       amd64        systemd utility library
@@ -547,7 +547,7 @@ ii  linux-libc-dev:amd64               5.15.0-33.34                            a
 ii  locales                            2.35-0ubuntu3                           all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
-ii  logrotate                          3.19.0-1ubuntu1.1                       amd64        Log rotation utility
+ii  logrotate                          3.19.0-1ubuntu1                         amd64        Log rotation utility
 ii  logsave                            1.46.5-2ubuntu1                         amd64        save the output of a command in a log file
 ii  lsb-base                           11.1.0ubuntu4                           all          Linux Standard Base init script functionality
 ii  lsb-release                        11.1.0ubuntu4                           all          Linux Standard Base version reporting utility
@@ -622,7 +622,7 @@ ii  sensible-utils                     0.0.17                                  a
 ii  shared-mime-info                   2.1-2                                   amd64        FreeDesktop.org shared MIME database and spec
 ii  sshfs                              3.7.1+repack-2                          amd64        filesystem client based on SSH File Transfer Protocol
 ii  strace                             5.16-0ubuntu3                           amd64        System call tracer
-ii  subversion                         1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
+ii  subversion                         1.14.1-3build4                          amd64        Advanced version control system
 ii  sudo                               1.9.9-1ubuntu2                          amd64        Provide limited super user privileges to specific users
 ii  sysstat                            12.5.2-2build2                          amd64        system performance tools for Linux
 ii  systemd                            249.11-0ubuntu3.1                       amd64        system and service manager
