@@ -1,4 +1,4 @@
-Rootfs SHASUM: 8bb6874b1a13563ef0f8d7d83ec79104c2797dc9416656d41f4491cbc985a900
+Rootfs SHASUM: ddfe8fd51fc1cc01b36d25ba9661a9bfcb9a875afa8374c64dd3d99fc857ac74
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -415,7 +415,7 @@ ii  librsvg2-common:amd64              2.52.5+dfsg-3                           a
 ii  librsvg2-dev:amd64                 2.52.5+dfsg-3                           amd64        SAX-based renderer library for SVG files (development)
 ii  librtmp-dev:amd64                  2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                     2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (shared library)
-ii  libruby3.0:amd64                   3.0.2-7ubuntu2                          amd64        Libraries necessary to run Ruby 3.0
+ii  libruby3.0:amd64                   3.0.2-7ubuntu2.1                        amd64        Libraries necessary to run Ruby 3.0
 ii  libsasl2-2:amd64                   2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - authentication abstraction library
 ii  libsasl2-dev                       2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - pluggable authentication modules
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-33.34                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-35.36                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3                           all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
@@ -615,7 +615,7 @@ ii  ruby                               1:3.0~exp1                              a
 ii  ruby-net-telnet                    0.1.1-2                                 all          telnet client library
 ii  ruby-rubygems                      3.3.5-2                                 all          Package management framework for Ruby
 ii  ruby-xmlrpc                        0.3.2-1                                 all          XMLRPC library for Ruby
-ii  ruby3.0                            3.0.2-7ubuntu2                          amd64        Interpreter of object-oriented scripting language Ruby
+ii  ruby3.0                            3.0.2-7ubuntu2.1                        amd64        Interpreter of object-oriented scripting language Ruby
 ii  rubygems-integration               1.18                                    all          integration of Debian Ruby packages with Rubygems
 ii  sed                                4.8-1ubuntu2                            amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                     0.0.17                                  all          Utilities for sensible alternative selection
